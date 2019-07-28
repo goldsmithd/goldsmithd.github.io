@@ -19,7 +19,7 @@ deploy:
   github-token: $GITHUB_TOKEN
   local_dir: public
   on:
-    branch: master
+    branch: release1
 
 
 
