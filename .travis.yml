@@ -13,14 +13,14 @@ git:
 # the `install` step will run `bundle install` by default. 
 script: ./script/cibuild
 
-deploy:
-  provider: pages
-  skip-cleanup: true
-  github-token: $GITHUB_TOKEN
-  local_dir: public
-  on:
-    branch: release1
-
+#deploy:
+#  provider: pages
+#  skip-cleanup: true
+#  github-token: $GITHUB_TOKEN
+#  local_dir: public
+#  on:
+#    branch: release1
+#
 
 
 addons:
