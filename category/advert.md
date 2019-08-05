@@ -1,0 +1,40 @@
+---
+layout: default
+title: Home
+---
+
+<section class="recent-posts row">
+
+
+    <div class="col-sm-8">
+
+        <div class="section-title">
+            <h2><span>All Stories</span></h2>    
+        </div>
+
+        <div class="masonrygrid row listrecent">
+
+            {% for post in paginator.posts %}
+
+            {% unless post.featured == true %}
+
+                {% include postbox.html %}
+
+            {% endunless %}
+
+            {% endfor %}
+
+        </div> 
+
+        <!-- Pagination -->
+        <div class="bottompagination">
+
+            <span class="navigation" role="navigation">
+
+                {% include pagination.html %}
+
+            </span>
+
+        </div>
+
+    </div>
