@@ -33,6 +33,10 @@ insert a picture
 
 ![walking]({{ site.baseurl }}/assets/images/head.jpg)
 
+
+<a href='https://photos.google.com/share/AF1QipO9cVIfL3zLLE7RiNoiZJaSspr6y-rFD2Kc_7QBdmp5tQyIpwq76d0G7DQ56xJsFg?key=aUhxcWoweEJBYzRDTzBEVzY5eHhUSWtkSmFNMEF3&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/-JgjRlQOnb9BDj28sSgi9QHreqCwFznjS7ItSqSWFm1hZbEWZg-yIpFfdCQzTSPJ_UU2DsuTTSumG6fwLTVjlBC-IhNMUdtipLrda7wn6SywN79gDU2qAyOoZBqmsOR-Vj_SWRGBO7A=w2400' /></a>
+
+
 ## example video ( full html)
 
 
