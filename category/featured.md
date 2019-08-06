@@ -12,7 +12,7 @@ title: Featured
 <section class="advert-posts">
 
     <div class="section-title">
-        <h2><span>Featured v2</span></h2>
+        <h2><span>Featured v3</span></h2>
     </div>
 
     <div class="row listfeaturedtag">
