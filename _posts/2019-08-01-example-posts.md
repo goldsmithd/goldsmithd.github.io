@@ -4,6 +4,7 @@ title:  "Some other examples of posts"
 categories: [ example, tutorial , featured ]
 image: assets/images/4.jpg
 featured: true
+comments: true
 ---
 examples
 
