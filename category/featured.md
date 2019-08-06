@@ -4,7 +4,7 @@ disqus: false
 archive: false
 categories: [ featured ]
 layout: default
-title: Advert
+title: Featured
 ---
 
 <!-- Advert Posts
@@ -19,7 +19,7 @@ title: Advert
 
     {% for post in site.posts %}
 
-        {% if post.advert == true %}
+        {% if post.featured  == true %}
 
             {% include featuredbox.html %}
 
