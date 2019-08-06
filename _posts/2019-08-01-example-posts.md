@@ -2,7 +2,7 @@
 layout: post-right-sidebar
 title:  "Some other examples of posts"
 categories: [ example, tutorial , featured ]
-image: assets/images/4.jpg
+image: assets/images/2.jpg
 featured: true
 comments: true
 ---
@@ -12,23 +12,6 @@ plain text
 
 
 ## Special formatting
-
-special formating:
-
-+ ~~strike through~~
-+ ==highlight==
-+ \*escaped characters\*
-
-
-## Writing code blocks
-
-highlighting  `like this`. or larger highlighting:
-
-```
-this is in a 
-box for
-highlighing
-```
 
 insert a picture
 
