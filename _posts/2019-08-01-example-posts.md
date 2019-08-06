@@ -3,7 +3,7 @@ layout: post-right-sidebar
 title:  "Some other examples of posts"
 categories: [ example, tutorial , featured ]
 image: assets/images/4.jpg
-featured: false
+featured: true
 ---
 examples
 
