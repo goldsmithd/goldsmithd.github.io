@@ -1,0 +1,78 @@
+---
+layout: default
+disqus: false
+archive: false
+categories: [ featured ]
+layout: default
+title: Advert
+---
+
+<!-- Advert Posts
+================================================== -->
+<section class="advert-posts">
+
+    <div class="section-title">
+        <h2><span>Featured v2</span></h2>
+    </div>
+
+    <div class="row listfeaturedtag">
+
+    {% for post in site.posts %}
+
+        {% if post.advert == true %}
+
+            {% include featuredbox.html %}
+
+        {% endif %}
+
+    {% endfor %}
+
+    </div>
+
+</section>
+
+<!-- Posts Index
+================================================== -->
+{% if paginator.previous_page %}
+{% if paginator.previous_page > 0 %}
+<div id="jumptopageof"></div>
+{% endif %}
+{% endif %}    
+
+<section class="recent-posts row">
+
+
+    <div class="col-sm-8">
+
+        <div class="section-title">
+            <h2><span>All Stories</span></h2>    
+        </div>
+
+        <div class="masonrygrid row listrecent">
+
+            {% for post in paginator.posts %}
+
+            {% unless post.featured == true %}
+
+                {% include postbox.html %}
+
+            {% endunless %}
+
+            {% endfor %}
+
+        </div> 
+
+        <!-- Pagination -->
+        <div class="bottompagination">
+
+            <span class="navigation" role="navigation">
+
+                {% include pagination.html %}
+
+            </span>
+
+        </div>
+
+    </div>
+
+</section>
