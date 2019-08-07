@@ -8,7 +8,7 @@ comments: true
 ---
 ## Dorset Chilli Fair 2019
 
-another glourious day at the Dorset Chilli Fair.
+[Another Glourious day at the ](https://www.greatdorsetchillifestival.co.uk/ "Dorset Chilli Fair")
 
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
 <div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
