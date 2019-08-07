@@ -1,6 +1,6 @@
 ---
 layout: post-right-sidebar
-title:  "Some other examples of posts v2"
+title:  "Google Posts v3"
 categories: [ example, tutorial , featured ]
 image: assets/images/2.jpg
 featured: true
@@ -48,3 +48,16 @@ insert a picture
   <img data-src="https://lh3.googleusercontent.com/LAULC_ZtkU1D5kBRT1K_pOHU4Q1vioyxKxTE20Dz2NHrutn4CGIpwmwfq5cwBF40nyGDTCY7hHZ3V_Wj8FWXAt3J9mA67qWgA3A5zu5CsAXg34OUfgQz0bcMj623LdSZafGfwXNhom4=w1920-h1080" src="" alt="" />
   <img data-src="https://lh3.googleusercontent.com/wCE1IeGGDUuX3RtUgm6u_Wgw_o_l24YDb9KQSmuSBURruIQwpv0LJq1mTyKtWWpY4-i6-x0yqgDipY8MJyXVqWEiTvrDG2PrlCXXOepij0sV6gVX7RhQKeEwhPUkmCdomuQfrzgNhWg=w1920-h1080" src="" alt="" />
 </div>
+
+
+
+## example google album
+
+<script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
+<div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
+  data-link="https://photos.app.goo.gl/sMuoNrxUo43FPgAg9"
+  data-title="Bike ride in Poole"
+  data-description="14 new photos added to shared album">
+  <img src='https://lh3.googleusercontent.com/-JgjRlQOnb9BDj28sSgi9QHreqCwFznjS7ItSqSWFm1hZbEWZg-yIpFfdCQzTSPJ_UU2DsuTTSumG6fwLTVjlBC-IhNMUdtipLrda7wn6SywN79gDU2qAyOoZBqmsOR-Vj_SWRGBO7A=w2400' src="" alt="" />
+</div>
+
