@@ -1,5 +1,5 @@
 ---
-layout: post-right-sidebar
+layout: page
 title:  "Dorset Chilli Fair"
 categories: [ blog ]
 image: assets/images/2019-07-01-Dorset-Chilli-Fair.jpg
