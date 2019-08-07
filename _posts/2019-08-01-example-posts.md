@@ -55,7 +55,7 @@ insert a picture
 
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
 <div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
-  data-link="https://photos.app.goo.gl/sMuoNrxUo43FPgAg9"
+  data-link="https://photos.google.com/share/AF1QipO9cVIfL3zLLE7RiNoiZJaSspr6y-rFD2Kc_7QBdmp5tQyIpwq76d0G7DQ56xJsFg?key=aUhxcWoweEJBYzRDTzBEVzY5eHhUSWtkSmFNMEF3&source=ctrlq.org"
   data-title="Bike ride in Poole"
   data-description="14 new photos added to shared album">
   <img src='https://lh3.googleusercontent.com/-JgjRlQOnb9BDj28sSgi9QHreqCwFznjS7ItSqSWFm1hZbEWZg-yIpFfdCQzTSPJ_UU2DsuTTSumG6fwLTVjlBC-IhNMUdtipLrda7wn6SywN79gDU2qAyOoZBqmsOR-Vj_SWRGBO7A=w2400' src="" alt="" />
